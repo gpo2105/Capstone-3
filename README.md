@@ -9,5 +9,4 @@ Deliverables:
 5) Final Clean Notebook
 6) Results from Training
 Research
-Models: 4 Models in Pytorch formats with their weights; Models 1 & 2 are experimental; Model 3 was trained with most of the dataset (75%); Model 4 was trained with only 20% of the dataset but with the larger pre-trained FB model; also Batch size was 15 vs 5 for the other models.
-
+Models (Even Compressed; file too large for GitHub  Desktop): 4 Models in Pytorch formats with their weights; Models 1 & 2 are experimental; Model 3 was trained with most of the dataset (75%); Model 4 was trained with only 20% of the dataset but with the larger pre-trained FB model; also Batch size was 15 vs 5 for the other models.  Will be trying to submit via google drive link:  https://drive.google.com/file/d/197bwvZdcvOgm1qG6Csrb7N47zAeJwcjL/view
